@@ -6,7 +6,7 @@ A clean and simple landing page to showcase a collection of my web development p
 
 ## 🚀 Live Demo
 
-[**View Live Site**](https://harshkaushik31.github.io/all-website/)
+[**View Live Site**](https://harshkaushik31.github.io/allwebsite/)
 
 
 ## 📸 Screenshot
@@ -66,4 +66,5 @@ That's it! You should see the website running locally.
 
 -   **Harsh Kaushik**
 -   GitHub: [@harshkaushik31](https://github.com/harshkaushik31)
+
 
